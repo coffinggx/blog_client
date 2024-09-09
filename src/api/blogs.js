@@ -1,3 +1,5 @@
+import { TerminalIcon } from "lucide-react"
+
 const blogsData = [
   {
     id: 1,
@@ -10,7 +12,7 @@ const blogsData = [
     id: 2,
     title: "Introduction to Rust Programming",
     metatitle: "Beginner's Guide to Rust",
-    description: "Rust is a systems programming language that focuses on speed, memory safety, and parallelism. This blog is designed for beginners who are new to Rust and want to understand its core concepts and features. We start by introducing Rust's syntax and basic programming constructs, including variables, data types, functions, and control flow. We then delve into more advanced topics such as ownership, borrowing, and lifetimes, which are unique to Rust and play a crucial role in its memory safety guarantees. You'll learn how Rust's ownership system helps prevent common bugs like null pointer dereferences and data races. The blog also includes practical examples and exercises to help you get hands-on experience with Rust programming. Additionally, we cover Rust's package manager, Cargo, and how to use it to manage dependencies and build projects. By the end of this blog, you will have a solid foundation in Rust programming and be ready to start building your own projects with this powerful language.",
+    description: "Rust is  a systems programming language that focuses on speed, memory safety, and parallelism. This blog is designed for beginners who are new to Rust and want to understand its core concepts and features. We start by introducing Rust's syntax and basic programming constructs, including variables, data types, functions, and control flow. We then delve into more advanced topics such as ownership, borrowing, and lifetimes, which are unique to Rust and play a crucial role in its memory safety guarantees. You'll learn how Rust's ownership system helps prevent common bugs like null pointer dereferences and data races. The blog also includes practical examples and exercises to help you get hands-on experience with Rust programming. Additionally, we cover Rust's package manager, Cargo, and how to use it to manage dependencies and build projects. By the end of this blog, you will have a solid foundation in Rust programming and be ready to start building your own projects with this powerful language.",
     imageUrl: "https://images.unsplash.com/photo-1555685812-4b74390f55a4"
   },
   {
